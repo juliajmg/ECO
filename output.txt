@@ -6676,3 +6676,5 @@ today is a beautiful day
 im here because i need to be a good day
 so I could keep talking please okay
 thank you i'm very glad to speak and listen
+hello how are you
+echo are you doing that
